@@ -1,0 +1,6 @@
+{
+  "name": "ChínhTrị 300+ & Học Tại Chức Đa Môn",
+  "description": "Hệ thống ôn thi 300 câu Nhận thức Chính trị năm 2026 và quản lý học tập tại chức đa môn: Học chuyên sâu, Flashcards, Thi thử, Trả nợ câu sai, Siêu trí nhớ và Lịch học cá nhân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
